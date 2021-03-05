@@ -4,7 +4,7 @@
 ### 🌱 I’m currently learning about 🌱
 - 👾 Network, clouding and writing socket programs in Python.
 - 💻 OS, Docking and Unix shell scripting.
-- 🍃 Using Spring for backend development using Java.
+- 🍃 JavaScript and Spring for backend development with Java.
 
 ---
 ### 👏 Get in touch! 👏
