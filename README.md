@@ -8,7 +8,7 @@
 
 ---
 ### 👏 Get in touch! 👏
-- 📫 How to reach me [by mail][mail].
+- 📫 Reach me [by mail][mail].
 - 🤝 Connect on [LinkedIn][linkedin].
 
 
