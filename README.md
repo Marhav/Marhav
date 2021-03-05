@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Marius! 👋
 
----
 
 ### 🌱 I’m currently learning about 🌱
 - 🍃 Using Spring for backend development using Java.
