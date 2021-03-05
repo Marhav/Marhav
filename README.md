@@ -1,14 +1,14 @@
-###👋 Hi there, I'm Marius! 👋
+##👋 Hi there, I'm Marius! 👋
 
 ---
 
-####🌱 I’m currently learning about 🌱
+###🌱 I’m currently learning about 🌱
 - 🍃 Using Spring for backend development using Java.
 - 💻 Unix shell scripting
 - 👾 Network, clouding and writing socket programs in Python
 
 ---
-#### 👏 Get in touch! 👏
+### 👏 Get in touch! 👏
 - 📫 How to reach me [by mail][mail]
 - 🤝 Connect on [LinkedIn][linkedin]
 
