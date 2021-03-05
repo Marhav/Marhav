@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Marius! 👋
+## Hi there, I'm Marius! 👋
 
 
 ### 🌱 I’m currently learning about 🌱
