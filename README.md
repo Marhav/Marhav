@@ -12,8 +12,9 @@
 - 📫 How to reach me [by mail][mail]
 - 🤝 Connect on [LinkedIn][linkedin]
 
+
 [linkedin]: https://www.linkedin.com/in/marius-havnaas-623756174
-[mail]: (mailto:marhav95@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[mail]: mailto:marhav95@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
 [instagram]: https://www.instagram.com/mariushavnaas/
 [java]: https://github.com/Marhav/Eksamen_AlgDat
 <!--
