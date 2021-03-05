@@ -2,14 +2,14 @@
 
 
 ### 🌱 I’m currently learning about 🌱
+- 👾 Network, clouding and writing socket programs in Python.
+- 💻 OS, Docking and Unix shell scripting.
 - 🍃 Using Spring for backend development using Java.
-- 💻 Unix shell scripting
-- 👾 Network, clouding and writing socket programs in Python
 
 ---
 ### 👏 Get in touch! 👏
-- 📫 How to reach me [by mail][mail]
-- 🤝 Connect on [LinkedIn][linkedin]
+- 📫 How to reach me [by mail][mail].
+- 🤝 Connect on [LinkedIn][linkedin].
 
 
 [linkedin]: https://www.linkedin.com/in/marius-havnaas-623756174
