@@ -2,9 +2,11 @@
 
 
 ### 🌱 I’m currently learning about 🌱
-- 👾 Network, clouding and writing socket programs in Python.
-- 💻 OS, Docking and Unix shell scripting.
-- 🍃 JavaScript and Spring for backend development with Java.
+- 🔌 Network and socket programs in Python.
+- 💻 OS, Unix shell scripting, Docking and Powershell.
+- ✨ Creating websites with JS, Bootstrap, HTML and CSS.
+- 👾 Building webservices with REST API using Node.js
+- 🍃 Also building webservices using Spring for backend development with Java.
 
 ---
 ### 👏 Get in touch! 👏
