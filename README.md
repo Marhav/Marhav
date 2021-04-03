@@ -7,6 +7,7 @@
 - ✨ Creating websites with JS, Bootstrap, HTML and CSS.
 - 👾 Building webservices with REST API using Node.js.
 - 🍃 Also building webservices using Spring for backend development with Java.
+- 🧮 Matlab for physics and numerical calculations.
 
 ---
 ### 👏 Get in touch! 👏
