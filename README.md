@@ -2,10 +2,10 @@
 
 
 ### 🌱 I’m currently learning about 🌱
-- 🔌 Network and socket programs in Python.
 - 💻 OS, Unix shell scripting, Docking and Powershell.
+- 🔌 Network and socket programs in Python.
 - ✨ Creating websites with JS, Bootstrap, HTML and CSS.
-- 👾 Building webservices with REST API using Node.js
+- 👾 Building webservices with REST API using Node.js.
 - 🍃 Also building webservices using Spring for backend development with Java.
 
 ---
