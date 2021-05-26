@@ -2,7 +2,7 @@
 
 
 ### 🌱 I’m currently learning about 🌱
-- 💻 OS, Unix shell scripting, Docking and Powershell.
+- 💻 OS, Unix shell scripting, Docker and Powershell.
 - 🔌 Network and socket programs in Python.
 - ✨ Creating websites with React.js, Bootstrap, HTML and CSS.
 - 👾 Building webservices with REST API using Node.js.
