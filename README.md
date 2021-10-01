@@ -1,7 +1,11 @@
 ## Hi there, I'm Marius! 👋
 
+### 🌱 I’m currently working on 🌱
+- 👔 Developing leadership skills
+- 🤖 Building webapplications with ASP.NET/C#, JS and Angular
+- 🔑 Learning about computer security
 
-### 🌱 I’m currently learning about 🌱
+### ✅ Recently learned about ✅
 - 💻 OS, Unix shell scripting, Docker and Powershell.
 - 🔌 Network and socket programs in Python.
 - ✨ Creating websites with React.js, Bootstrap, HTML and CSS.
