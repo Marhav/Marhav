@@ -10,7 +10,7 @@
 
 ### ✅ Recently learned about ✅
 - 🔑 Learning about computer security.
-- 🐋 Using Docker to Dockerizing web applications.
+- 🐋 Using Docker to Dockerize web applications.
 - 💻 Unix shell- and PowerShell scripting.
 - 🔌 Network and socket programs in Python.
 - ✨ Creating websites with React.js, Vue.js and Angular.
