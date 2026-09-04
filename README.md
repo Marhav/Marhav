@@ -1,5 +1,4 @@
 ## Hi there, I'm Marius! 👋
----
 ### 👏 Get in touch! 👏
 - 📫 Reach me [by mail][mail].
 - 🤝 Connect on [LinkedIn][linkedin].
