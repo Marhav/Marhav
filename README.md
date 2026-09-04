@@ -1,22 +1,4 @@
 ## Hi there, I'm Marius! 👋
-
-### 🌱 I’m currently working on 🌱
-- 👨‍🏫 Bachelor project at [Intility][intility]
-  -  Developing a Documentation portal for meeting rooms
-     with realtime feedback on device uptime.
-  -  High focus on project structure
-     and agile working methodology.
-- 👔 Developing leadership skills
-
-### ✅ Recently learned about ✅
-- 🔑 Learning about computer security.
-- 🐋 Using Docker to Dockerize web applications.
-- 💻 Unix shell- and PowerShell scripting.
-- 🔌 Network and socket programs in Python.
-- ✨ Creating websites with React.js, Vue.js and Angular.
-- 👾 Building REST APIs using Node.js and ASP.NET/C#.
-- 🧮 Matlab for physics and numerical calculations.
-
 ---
 ### 👏 Get in touch! 👏
 - 📫 Reach me [by mail][mail].
